@@ -94,3 +94,22 @@ O desenvolvimento será realizado utilizando branches de trabalho antes da integ
 O link do vídeo de apresentação será incluído aqui após a gravação.
 
 **Link:** a adicionar.
+
+## Status do projeto
+
+Em desenvolvimento.
+
+## Quadro Kanban
+
+O desenvolvimento do projeto está sendo acompanhado por meio de um quadro Kanban no Trello.
+
+**Link do Kanban:** === https://trello.com/invite/b/6a94a630c5e993c47cc90980/ATTIe88812b48beaceafc52fc324852fabff0E5FE055/mini-projeto-ifsc
+
+## Decisões de projeto
+
+Nesta seção serão registradas as principais decisões tomadas durante o desenvolvimento, como:
+
+- regra de cálculo da compatibilidade;
+- critério de prioridade das habilidades para estudo;
+- organização das classes;
+- uso das funções e métodos de array.
