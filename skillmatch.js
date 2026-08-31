@@ -31,10 +31,9 @@ const candidato = {
         "HTML",
         "CSS",
         "JavaScript",
-        "React",
         "Git",
         "GitHub",
     ],
-    tempoExperienciaMeses: 0, // em meses
-    
+    tempoExperienciaMeses: 0 // em meses - experiência profissional formal
+
 };
