@@ -32,8 +32,54 @@ const candidato = {
         "CSS",
         "JavaScript",
         "Git",
-        "GitHub",
+        "GitHub"
     ],
     tempoExperienciaMeses: 0 // em meses - experiência profissional formal
 
 };
+
+// ==============================
+// VAGAS
+// ==============================
+
+const vagas = [
+    {
+        tituloVaga: "Desenvolvedor Front-End Júnior",
+        empresa: "Tech Namor Solutions Ltda.",
+        modalidade: "Remoto",
+        localizacao: "Florianópolis/SC",    
+        requisitos: [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        salario: 3500
+    },
+    {
+        tituloVaga: "Desenvolvedor Front-End Júnior",
+        empresa: "Inovação Digital e Comportamental Ltda.",
+        modalidade: "Remoto",   
+        localizacao: "Florianópolis/SC",            
+        requisitos: [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git"
+        ],
+        salario: 4500
+    },
+    {
+        tituloVaga: "Desenvolvedor Front-End Júnior",
+        empresa: "CodeWave Sistemas Ltda.",
+        modalidade: "Remoto",       
+        localizacao: "Florianópolis/SC",    
+        requisitos: [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "TypeScript"
+        ],
+        salario: 4500
+    }
+];
