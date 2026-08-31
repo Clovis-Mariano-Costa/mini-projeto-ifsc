@@ -23,3 +23,18 @@
 // ==============================
 // PERFIL DO CANDIDATO
 // ==============================
+
+const candidato = {
+    nome: "Clovis Mariano da Costa", 
+    areaInteresse: "Desenvolvimento Front-End", 
+    habilidades: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git",
+        "GitHub",
+    ],
+    tempoExperienciaMeses: 0, // em meses
+    
+};
